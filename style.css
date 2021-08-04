@@ -78,6 +78,6 @@ body{
     .cards{
         flex-grow: 1;
         flex-direction: row;
-        height: 60vh;
+        height: 62vh;
     }
 }
