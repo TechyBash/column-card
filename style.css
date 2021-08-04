@@ -74,7 +74,7 @@ body{
 }
 
 
-@media screen and (min-width: 376px){
+@media screen and (min-width: 768px){
     .cards{
         flex-grow: 1;
         flex-direction: row;
