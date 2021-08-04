@@ -9,6 +9,8 @@ body{
     height: 100vh;
     color: #fff;
     font-size: 15px;
+    display: grid;
+    place-items: center;
     background: hsl(0, 0%, 95%);
 }
 
@@ -20,7 +22,7 @@ body{
     border-radius: .5rem;
     height: auto;
     overflow: hidden;
-    margin: 5rem auto;
+    margin: 0 auto;
 }
 .card{
     flex-grow: 1;
